@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentAPP</string>
+    <string name="title_act_second">BMI結果顯示</string>
+</resources>
